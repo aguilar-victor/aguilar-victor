@@ -59,4 +59,4 @@ I've contributed to PyTorch, adding docs for `.from_numpy()` and clarifying memo
 
 ## <br> 📫 **Connect With Me**
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/ag-victor)
