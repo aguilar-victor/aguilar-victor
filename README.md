@@ -4,6 +4,8 @@
   
 I'm a Junior Software Engineer who loves building cool stuff with new tech.<br >Check out my GitHub for some projects, contributions and more!
 
+**[www.aguilarvictor.com](https://www.aguilarvictor.com)**
+
 ---
 
 ## <br> ⚡ **Technologies & Tools I Use**
@@ -59,4 +61,4 @@ I've contributed to PyTorch, adding docs for `.from_numpy()` and clarifying memo
 
 ## <br> 📫 **Connect With Me**
 
-- [LinkedIn](https://www.linkedin.com/in/ag-victor)
+- **[LinkedIn](https://www.linkedin.com/in/ag-victor)**
