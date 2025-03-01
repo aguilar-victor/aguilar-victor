@@ -4,7 +4,7 @@
   
 I'm a Junior Software Engineer who loves building cool stuff with new tech.<br >Check out my GitHub for some projects, contributions and more!
 
-**[www.aguilarvictor.com](https://www.aguilarvictor.com)**
+**[aguilarvictor.com](https://www.aguilarvictor.com)**
 
 ---
 
