@@ -1,4 +1,4 @@
-# 👾<br>**Welcome to My GitHub Profile!**
+**<h1 align="center">👾Welcome to My GitHub Profile!</h1>**
 
 **Hey, I'm Victor!**
   
@@ -22,12 +22,11 @@ I'm a Junior Software Engineer who loves building cool stuff with new tech.<br >
  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
 ## <br> 🌟 **Featured Projects**
-   
-### <br>[Icebreaker Web App](https://github.com/aguilar-victor/icebreaker)  
-A fun web app that connects people through questions and challangues. Built with React and TypeScript.
+
+<br>![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aguilar-victor&repo=icebreaker)
+
+A full-stack web app that connects people through questions and challangues.
 
 **Features**:
 - Create and Join Rooms.
@@ -35,23 +34,32 @@ A fun web app that connects people through questions and challangues. Built with
 - Fully responsive design.
 
 **Tech Stack**: React, TypeScript, Vite, TailwindCSS.
-     
-### <br> [Personalized Meal Planner](https://github.com/aguilar-victor/mealplanner)  
- A tool to generate personalized meal plans, with nutrition breakdowns and downloadable PDFs.
+
+#
+
+<br>![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aguilar-victor&repo=mealplanner)
+
+A tool to generate personalized meal plans, with nutrition breakdowns and downloadable PDFs.
 
 **Features**:
 - Custom meal plans based on calorie and macronutrient goals.
 - Interactive charts and food clustering.
 
 **Tech Stack**: Python, Pandas, Plotly, Reportlab, scikit-learn.
-   
-### <br> [Contribuitions](https://github.com/aguilar-victor/docs)  
 
-I've contributed to PyTorch, adding docs for `.from_numpy()` and clarifying memory-sharing between NumPy arrays and tensors.
+#
+
+### <br> [Contribuition](https://github.com/aguilar-victor/docs)  
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aguilar-victor&repo=docs)
+
+I've added docs for the **[Codecademy](https://www.codecademy.com/resources/docs/pytorch/tensor-operations/from-numpy)** website on PyTorch's `.from_numpy()` method,<br>clarifying memory sharing between NumPy arrays and tensors.
 
 ---
 
-## <br> 🔭 **Currently Working On**
+<br>
+
+## 🔭 **Currently Working On**
 
 - Machine Learning algorithms and frameworks.   
 - Advanced TypeScript and React patterns (Context API, Hooks).   
@@ -59,6 +67,8 @@ I've contributed to PyTorch, adding docs for `.from_numpy()` and clarifying memo
 
 ---
 
-## <br> 📫 **Connect With Me**
+<br>
+
+## 📫 **Connect With Me**
 
 - **[LinkedIn](https://www.linkedin.com/in/ag-victor)**
