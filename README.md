@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub!
 
-**Hey, I'm Victor!**
+**Hey, I'm Victor.**
   
 A full-stack developer who loves building cool stuff with new tech.<br >Check out my GitHub for some projects, contributions and more...
 
